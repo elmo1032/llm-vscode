@@ -32,8 +32,6 @@ jobs:
             code-target: darwin-x64
           - target: aarch64-apple-darwin
             code-target: darwin-arm64
-          - target: x86_64-unknown-linux-musl
-            code-target: alpine-x64
 
     env:
       LLM_LS_TARGET: ${{ matrix.target }}
