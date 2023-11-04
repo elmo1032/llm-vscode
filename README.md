@@ -1,4 +1,4 @@
-# LLM powered development for VSCode
+# LLM powered development for VSCode  
 
 **llm-vscode** is an extension for all things LLM. It uses [**llm-ls**](https://github.com/huggingface/llm-ls) as its backend.
 
